@@ -1,0 +1,24 @@
+{
+  "name": "speech-recognition-app-30days30submits-day-24",
+  "version": "1.0.0",
+  "description": "Speech Recoginizer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faraz66/SpeechRecognizer.git"
+  },
+  "keywords": [
+    "SPEECH",
+    "RECO"
+  ],
+  "author": "FARAZ SHAIKH",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faraz66/SpeechRecognizer/issues"
+  },
+  "homepage": "https://github.com/faraz66/SpeechRecognizer#readme"
+}
