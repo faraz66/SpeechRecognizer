@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'speech12334'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_170D3DC3D70F4BE3BCD30420FF19E0ED }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED42D607210E4657B491835C20A7C30B }}
           package: .
